@@ -1,9 +1,9 @@
 ---
-title: <enter a different title here>
+title: <lesson 2 trial>
 layout: default
 nav_order: 2
 ---
- ###Lesson2MD
+ ### Lesson2MD
  
  
   &alpha
