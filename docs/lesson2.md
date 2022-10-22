@@ -9,4 +9,4 @@ nav_order: 2
   &alpha;
  
  
-  j$star; = &sigma;T<sup>4</sup>
+  j&star; = &sigma;T<sup>4</sup>
